@@ -10,8 +10,8 @@ This a is an off-line Python tool for searching input names against a names data
 Python v3.6 or higher
 
 ## Environment
-Windows 7 or 10 Operating System
-32 or 64 bit Architecture.
+- Windows 7 or 10 Operating System
+- 32 or 64 bit Architecture
 
 ## Hardware Resource Requirements
 
