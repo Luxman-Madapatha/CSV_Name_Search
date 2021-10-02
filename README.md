@@ -81,8 +81,8 @@ Place the above three files in a directory and run the namesearch.py
 - sys [runtime environment]
 - os [operating system interface]
 
-The name dictionary can be updated with valid names as required. and the input names can be 
-relaced with a new set
+The name dictionary can be updated with valid names as required, and the input names can be 
+relaced with a new set.
 
 
 ## Input DATABASE.CSV file is shown below [input names to be validated]
