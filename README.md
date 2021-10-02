@@ -91,7 +91,7 @@ relaced with a new set
 
 The output is a CSV file as shown below
 
-<img align="left" width="1330" height="796" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/OUTPUT1.png" />
+<img align="left" width="1330" height="796" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/OUTPUT1.png"/>
 <br clear="left"/>
 
 ## Support
