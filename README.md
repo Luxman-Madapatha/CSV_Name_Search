@@ -4,8 +4,6 @@ This a is an off-line Python tool for searching input names against a names data
 
 <img align="left" width="200" height="100" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
 <br clear="left"/>
-<img align="right" width="200" height="100" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
-<br clear="right"/>
 
 ## Technologies
 
