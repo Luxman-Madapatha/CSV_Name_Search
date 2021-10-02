@@ -143,11 +143,8 @@ _……………………………………………………………………�
 
 ## Support
 
-If you are having problems, please let us know by raising a new issue.
-
 If you are having problems, please let us know by [raising a new issue](https://github.com/Luxman-Madapatha/CSV_Name_Search/issues/new).
 
 
 ## License
 This project is licensed with the MIT license.
-
