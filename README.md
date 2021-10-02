@@ -89,7 +89,7 @@ Place the above three files in a directory and run the namesearch.py
 The name dictionary can be updated with valid names as required. and the input names can be 
 relaced with a new set
 
-The output is a CSV file as shown below
+## Output CSV file is shown below
 
 <img align="left" width="1330" height="796" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/OUTPUT1.PNG" />
 <br clear="left"/>
