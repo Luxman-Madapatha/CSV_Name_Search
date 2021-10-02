@@ -21,9 +21,7 @@ https://support.microsoft.com/en-us/windows/windows-7-system-requirements-df0900
 
 https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9a79-66bf-7950-467c-795cf0386715
 
-
 ## Functional Requirements
-
 
 -	Console interface [dos]
 -	Input file in csv format
@@ -31,6 +29,7 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 -	Analytics [refer below]
 -	Output to a file in csv format
 -	Dictionary should be editable
+-	Backup of previous OUTPUT file if available
 
 ## Analytics
 
