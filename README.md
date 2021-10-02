@@ -13,15 +13,6 @@ Python v3.6 or higher
 Windows 7 or 10 Operating System
 32 or 64 bit Architecture.
 
-Python modules:
-
-Pandas [created, manipulate and save dataframes]
-re [string regular expressions]
-time [time operations]
-csv [comma separated file]
-sys [runtime environment]
-os [operating system interface] 
-
 ## Hardware Resource Requirements
 
 Windows 7 or Windows 10 base requirements should suffice:
@@ -140,6 +131,23 @@ _……………………………………………………………………�
 
 <img align="left" width="912" height="704" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/namesearch_data_diag2.png" />
 <br clear="left"/>
+
+## File Description
+
+- Database.csv -> input CSV file with names which are to be validated
+- firstnames and lastnames.xlsx -> the fisrt name last name XLSX dictionary file used for name validation
+- namesearch.py -> the Python script to run
+
+## How To 
+place the above three files in a directory and run the namesearch.py
+[ensure all required Python libraries are installed]
+
+ - pandas [created, manipulate and save dataframes]
+- re [string regular expressions]
+- time [time operations]
+- csv [comma separated file]
+- sys [runtime environment]
+- os [operating system interface]
 
 ## Support
 
