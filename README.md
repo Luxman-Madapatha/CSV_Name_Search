@@ -53,7 +53,7 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 ## Performance Requirements
 
 - The software program-script can be used on a low configuration PC
-- The software program-script can support bulk searches [10,0000+ records]
+- The software program-script can support bulk searches [up to 1000,000 records]
 
 ## Deliverables
 
