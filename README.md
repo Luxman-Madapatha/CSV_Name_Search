@@ -35,7 +35,7 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 ## Analytics
 
 - First and Last Name matching based on the dictionary
-- &quot;Match rating&quot; based on the number of characters matched as a percentage
+- &quot;Match rating&quot; as a percentage based on the number of characters matched
 
 ## Input / Output Format
 
