@@ -1,4 +1,4 @@
-<img align="left" width="116" height="116" src="https://raw.githubusercontent.com/jasontaylordev/CleanArchitecture/main/.github/icon.png" />
+<img align="left" width="116" height="116" src="https://raw.githubusercontent.com/Luxman-Madapatha/CSV_Name_Search/main/.github/icon.png" />
 
 # CSV_Name_Search
 
