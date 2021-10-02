@@ -76,7 +76,7 @@ _Tool that identifies email names from the list of person dictionary names from 
 - namesearch.py -> the Python script to run
 
 ## How To 
-place the above three files in a directory and run the namesearch.py
+Place the above three files in a directory and run the namesearch.py
 [ensure all required Python libraries are installed]
 
  - pandas [created, manipulate and save dataframes]
@@ -85,6 +85,14 @@ place the above three files in a directory and run the namesearch.py
 - csv [comma separated file]
 - sys [runtime environment]
 - os [operating system interface]
+
+The name dictionary can be updated with valid names as required. and the input names can be 
+relaced with a new set
+
+The output is a CSV file as shown below
+
+<img align="left" width="912" height="704" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/namesearch_data_diag2.png" />
+<br clear="left"/>
 
 ## Support
 
