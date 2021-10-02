@@ -59,10 +59,6 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 
 - Python source-code with comments
 
-## Sample Output 
-
-_Tool that identifies email names from the list of person dictionary names from excel  (first names and last names)_
-
 ## Data flow diagram
 
 <img align="left" width="912" height="704" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/namesearch_data_diag2.png" />
