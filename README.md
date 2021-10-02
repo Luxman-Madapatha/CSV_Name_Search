@@ -1,4 +1,4 @@
-<img align="left" width="116" height="116" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
+<img align="left" width="300" height="300" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
 
 # CSV_Name_Search
 
