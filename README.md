@@ -90,10 +90,16 @@ The name dictionary can be updated with valid names as required. and the input n
 relaced with a new set
 
 
-## Input dictionary file is shown below
+## Input DATABASE.CSV file is shown below [input names to be validated]
 
 <img align="left" width="365" height="859" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/DATABASE.PNG" />
 <br clear="left"/>
+
+## Input firstnames and lastnames.xlsx file is shown below [names dictionary]
+
+<img align="left" width="348" height="901" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/firstnamesandlastnames.png" />
+<br clear="left"/>
+
 
 ## Output CSV file is shown below
 
