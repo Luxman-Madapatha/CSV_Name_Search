@@ -95,7 +95,7 @@ relaced with a new set
 <img align="left" width="365" height="859" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/DATABASE.PNG" />
 <br clear="left"/>
 
-## Input firstnames and lastnames.xlsx file is shown below [names dictionary]
+## Input firstnames and lastnames.xlsx file is shown below [reference names dictionary]
 
 <img align="left" width="348" height="901" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/firstnamesandlastnames.png" />
 <br clear="left"/>
