@@ -24,12 +24,13 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 
 ## Functional Requirements
 
-- CONSOLE INTERFACE [DOS]
-- INPUT FILE IN CSV FORMAT
-- SEARCH FUNCTION FROM CSV DICTIONARY
-- ANALYTICS [refer below]
-- OUTPUT TO A FILE IN CSV FORMAT
-- **DICTIONARY SHOULD BE EDITABLE**
+
+-	Console interface [dos]
+-	Input file in csv format
+-	Search function from csv dictionary
+-	Analytics [refer below]
+-	Output to a file in csv format
+-	Dictionary should be editable
 
 ## Analytics
 
