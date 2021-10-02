@@ -108,7 +108,7 @@ relaced with a new set
 
 ## Support
 
-If you are having problems, please let us know by [raising a new issue](https://github.com/Luxman-Madapatha/CSV_Name_Search/issues/new).
+If you are having problems, please let me know by [raising a new issue](https://github.com/Luxman-Madapatha/CSV_Name_Search/issues/new).
 
 
 ## License
