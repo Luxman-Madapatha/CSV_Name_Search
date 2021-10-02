@@ -136,7 +136,10 @@ _……………………………………………………………………�
 
 ........................
 
-## Getting Started
+## Data flow diagram
+
+<img align="left" width="912" height="704" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/namesearch_data_diag2.png" />
+<br clear="left"/>
 
 ## Support
 
