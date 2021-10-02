@@ -1,13 +1,5 @@
 <img align="left" width="300" height="300" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
-
-
-
-
-
-
-
-
-
+<br clear="left"/>
 
 # CSV_Name_Search
 
