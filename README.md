@@ -2,8 +2,8 @@
 # CSV_Name_Search
 This a is an off-line Python tool for searching input names against a names database, both in CSV format, for valid names. 
 
-<img align="center" width="600" height="300" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
-<br clear="center"/>
+<img align="left" width="600" height="300" src="https://github.com/Luxman-Madapatha/CSV_Name_Search/blob/main/icon2.png" />
+<br clear="left"/>
 
 
 ## Technologies
