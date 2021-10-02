@@ -23,7 +23,7 @@ https://support.microsoft.com/en-us/windows/windows-10-system-requirements-6d4e9
 
 ## Functional Requirements
 
--	Console interface [dos]
+-	Console interface [PowerShell]
 -	Input file in csv format
 -	Search function from csv dictionary
 -	Analytics [refer below]
